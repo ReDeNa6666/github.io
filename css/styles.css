@@ -88,6 +88,10 @@ section p {
   margin-bottom: 40px;
 }
 
+.works p {
+  font-size: 20px;
+}
+
 /* .works h1 {
   text-align: left;
 }
